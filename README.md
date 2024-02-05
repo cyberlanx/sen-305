@@ -1,2 +1,7 @@
 # sen-305
-assignment
+<html>
+  <h1>
+    a simple landing website 
+    
+  </h1>
+</html>
